@@ -1,0 +1,6 @@
+owner=511361081894109229
+prefix=9
+game=playing|By|Vairos|9Play
+stayinchannel=true
+songinstatus=false
+token=NTQyMDA4NjA3ODQ4Mzk4ODU4.DznwXQ.-YvzrgtdRaoRv2rr-pQwolJL5Gw
